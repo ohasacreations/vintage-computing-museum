@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('bg.jpg');
+    background-color: #cccccc;
+    font-family: Arial, sans-serif;
+}
+
+h1,h2{
+    text-align: center;
+    color: darkblue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 5px solid black;
+}
+
+#navbar{
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px dashed gray;
+}
+
+a:link{color: blue; text-decoration: none;}
+a:visited{color:purple}
+a:hover{color:red; background-color: yellow; text-decoration: underline;}
+a:active{color:green;}
+
+.justified-text{
+    text-align:justify;
+    text-indent: 50px;
+    line-height: 1.5;
+    word-spacing: 5px;
+}
+
+ul{list-style-type: square;}
+
+.footer{
+    margin-top: 20px;
+    font-size: 10px;
+}
