@@ -4,6 +4,8 @@ A comprehensive web development project built to revise the entire HTML, CSS, an
 
 The website follows a "Vintage Computing" theme, allowing for the legitimate use of legacy HTML tags (like `marquee` and `font`) alongside modern CSS and PHP backend integration.
 
+Please read the "Instructions.pdf"
+
 ## 📋 Project Overview
 
 This project covers:
